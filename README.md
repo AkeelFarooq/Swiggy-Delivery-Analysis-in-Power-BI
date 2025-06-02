@@ -9,16 +9,16 @@ The online food ordering market includes foods prepared by restaurants, prepared
 # Dashboards
 
 ## Dashboard 1
-![dash1](https://github.com/MohammadWasiq0786/Swiggy-Delivery-Analysis/blob/main/Images/Dashboard%201.png)
+![dash1](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%201.png)
 
 ## Dashboard 2
-![dash2](https://github.com/MohammadWasiq0786/Swiggy-Delivery-Analysis/blob/main/Images/Dashboard%202.png)
+![dash2](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%202.png)
 
 ## Dashboard 3
-![dash3](https://github.com/MohammadWasiq0786/Swiggy-Delivery-Analysis/blob/main/Images/Dashboard%203.png)
+![dash3](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%203.png)
 
 ## Dashboard 4
-![dash4](https://github.com/MohammadWasiq0786/Swiggy-Delivery-Analysis/blob/main/Images/Dashboard%204.png)
+![dash4](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%204.png)
 
 # Analysis
 * We find the number of outlet for particular cuisine. 
