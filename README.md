@@ -1,31 +1,105 @@
-# [**ANALYZING SWIGGY: BANGALORE DELIVERY OUTLET DATA**]()
-Here I analysis Swiggy Delivery Data with Power BI.
+# 🍽️ Swiggy Data Analysis Dashboard
 
-![Swiggy%20Image.jpg](https://th.bing.com/th/id/OIP.Qw11nbTP2pBb08x-H2WDSAHaE8?pid=ImgDet&rs=1)
+### 📊 Project Overview
+This project presents an in-depth **data analysis of Swiggy restaurant listings**, focusing on cost patterns, ratings, cuisines, and restaurant locations across popular Bangalore areas such as **Koramangala, HSR, BTM, and Jayanagar**.  
+The analysis is visualized through **interactive Power BI dashboards**, enabling clear insights into restaurant pricing, popularity, and cuisine diversity.
 
-# Problem Statement
-The online food ordering market includes foods prepared by restaurants, prepared by independent people, and groceries being ordered online and then picked up or delivered. The first online food ordering service, World Wide Waiter (now known as Waiter.com), was founded in 1995. Online food ordering is the process of ordering food from a website or other application. The product can be either ready-to-eat food or food that has not been specially prepared for direction consumption.
+---
 
-# Dashboards
+## 🧠 Objective
+To analyze and visualize Swiggy restaurant data to uncover insights like:
+- Which areas are the most expensive for dining?
+- Which restaurants have the highest ratings?
+- Which cuisines are most common across regions?
+- How are restaurants distributed by location and cost?
 
-## Dashboard 1
-![dash1](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%201.png)
+---
 
-## Dashboard 2
-![dash2](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%202.png)
+## 📂 Files Included
+| File Name | Description |
+|------------|-------------|
+| **Swiggy Analysis.pbix** | Power BI project file containing all dashboards and data visualizations. |
+| **Swiggy Analysis.ipynb** | Jupyter Notebook used for data cleaning, preprocessing, and analysis. |
+| **Swiggy Analysis.pdf** | Exported static report version of the Power BI dashboard. |
+| **Dashboard 1–4.png** | Dashboard images for presentation and documentation purposes. |
 
-## Dashboard 3
-![dash3](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%203.png)
+---
 
-## Dashboard 4
-![dash4](https://github.com/AkeelFarooq/Swiggy-Delivery-Analysis-in-Power-BI/blob/master/Images/Dashboard%204.png)
+## 🧩 Key Dashboards
 
-# Analysis
-* We find the number of outlet for particular cuisine. 
-* Average Cost for two cuisine. 
-* Affordable and Highest Rated Restaurant. 
-* Expensive Restaurant. 
-* North India Cuisine have highest outlets. 
-* 99 Variety Dose and Juice is the cheapest and affordable restaurant. 
-& Koramangala have the highest number of restaurant
+### 1️⃣ Shop Name by Rating
+Displays the distribution of restaurants based on customer ratings.  
+- Most common ratings: **4.0 – 4.3**
+- Highest-rated shop: **4.8**
+- Majority of restaurants fall between **4.0 – 4.2 range**.
 
+---
+
+### 2️⃣ Expensive Areas
+Highlights areas with the **highest average cost for two people**.  
+Top expensive areas include:
+- Sector 3, HSR  
+- Hosur Main Road, Koramangala  
+- HSR 1st Sector  
+- KHB Colony, Koramangala  
+
+Average cost for two reaches up to **₹800** in premium areas.
+
+---
+
+### 3️⃣ Number of Shops by Location
+Pie chart showing restaurant distribution across locations:
+- **Koramangala:** 54.24% (most restaurants)  
+- **BTM:** 29.66%  
+- **HSR:** 15.25%  
+- **Jayanagar:** 2.54%  
+
+---
+
+### 4️⃣ Cost & Ratings of Restaurants
+Lists restaurants with their **ratings and average cost for two**.  
+- Cheapest restaurants start from **₹100**.  
+- Expensive ones like **Punjabi Rasoi** and **Dindigul Thalappakatti** go up to **₹800**.  
+- Consistently high ratings across all pricing levels.
+
+---
+
+### 5️⃣ Cuisine Analysis
+Breakdown of restaurant cuisines by count and diversity.  
+- **Top cuisines:** North Indian, Desserts, Biryani, and Chinese.  
+- Over **40+ cuisine combinations** represented, including multi-cuisine fusions like *Andhra Biryani*, *American Fast Food*, and *Chinese Thai*.
+
+---
+
+## ⚙️ Tools & Technologies
+- **Power BI:** Dashboard creation and visualization  
+- **Python (Jupyter Notebook):** Data cleaning and preprocessing  
+- **Pandas & Matplotlib:** Exploratory data analysis  
+- **Excel/CSV:** Source data formatting and preparation  
+
+---
+
+## 📈 Insights
+- **Koramangala** has the highest number of restaurants but mid-level pricing.  
+- **HSR Sector 3** is among the most expensive dining areas.  
+- **North Indian cuisine** dominates the menu offerings.  
+- **Average rating:** Between 4.0 – 4.3, showing overall good customer satisfaction.
+
+---
+
+## 💡 Conclusion
+This project provides data-driven insights into Bangalore’s restaurant ecosystem on Swiggy.  
+It helps identify **price trends, customer preferences, and location competitiveness**, which can support:
+- Restaurant market strategy planning  
+- Pricing optimization  
+- Customer satisfaction improvement  
+- Data-driven decision-making for food delivery platforms  
+
+---
+
+## 👨‍💻 Author
+**Akeel Farooq**  
+📊 *Data Analyst | Power BI | Python | SQL | Excel*  
+📍 *Jalandhar, India*  
+
+---
